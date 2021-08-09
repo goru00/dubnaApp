@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'MerriweatherRegular';
+    src: url('../assets/fonts/MerriweatherRegular/Merriweather-Regular.ttf');
+}
+@font-face {
+    font-family: 'MerriweatherBold';
+    src: url('../assets/fonts/MerriweatherBold/Merriweather-Bold.ttf');
+}
+@font-face {
+    font-family: 'PTSansRegular';
+    src: url('../assets/fonts/PTSansRegular/PTSans-Regular.ttf');
+}
+@font-face {
+    font-family: 'PTSansBold';
+    src: url('../assets/fonts/PTSansBold/PTSans-Bold.ttf');
+}

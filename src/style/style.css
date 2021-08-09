@@ -1,8 +1,17 @@
 @import 'fonts.css';
+@import '~normalize.css';
 
+h2
+{
+    font-family: 'MerriweatherBold', sans-serif;
+}
+h3
+{
+    font-family: 'PTSansBold', serif;
+}
 .container 
 {
     width: 300px;
     height: 200px;
-    background: #000;
+    background: rgb(243, 243, 243);
 }
